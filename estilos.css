@@ -1,0 +1,17 @@
+#menu{
+    background-color: #FFFACD;
+    color: #000000;
+    padding: 20px;
+    font-family: 'work-sans';
+    margin-bottom: 20px;  
+    text-align: center;
+}
+#opciones-menu{
+    background-color: #FFDAB9;
+    border: 4px solid orange;
+    
+}
+#combos{
+    background-color: #FFD1DC;
+    border: 4px solid violet;
+}
