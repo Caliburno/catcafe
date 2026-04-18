@@ -6,27 +6,26 @@
 
 body {
     
-    font-family: 'Bitcount', sans-serif;
+    font-family: 'Work Sans';
     background-color: #FFFACD;
     color: #000000
 }
 
 h1, h2, h3 {
-    font-family: 'Bitcount', sans-serif;
+    font-family: 'Bitcount Grid Double', sans-serif;
 }
 
 #contacto{
      background-color: #FFFACD;
     color: #000000;
     padding: 20px;
-    font-family: 'work-sans';
     margin-bottom: 20px; 
+}
 
 #menu{
     background-color: #FFFACD;
     color: #000000;
     padding: 20px;
-    font-family: 'work-sans';
     margin-bottom: 20px;  
     text-align: center;
 }
@@ -38,5 +37,4 @@ h1, h2, h3 {
 #combos{
     background-color: #FFD1DC;
     border: 4px solid violet;
-    menu
 }
