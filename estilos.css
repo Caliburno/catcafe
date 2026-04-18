@@ -69,3 +69,9 @@ nav a {
     margin-bottom: 20px;
 }
 
+footer {
+    background-color: #FFDAB9;
+    border-top: 4px solid orange;
+    padding: 20px;
+    text-align: center;
+}
