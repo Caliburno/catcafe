@@ -5,11 +5,12 @@
 }
 
 body {
+    
     font-family: 'Bitcount', sans-serif;
     background-color: #FFFACD;
     color: #000000
 }
 
 h1, h2, h3 {
-    font-family: 'Family';
+    font-family: 'Bitcount', sans-serif;
 }
