@@ -75,3 +75,68 @@ footer {
     padding: 20px;
     text-align: center;
 }
+
+footer {
+    background-color: #FFDAB9;
+    border-top: 4px solid orange;
+    padding: 20px;
+    text-align: center;
+}
+
+
+#inicio {
+    background-color: #FFD1DC;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.contenido-inicio {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#inicio h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+#inicio h2 {
+
+font-size: 18px;
+margin-bottom: 30px;
+font-weight: 400;
+
+}
+
+.btn-principal {
+    display: inline-block;
+    background-color: #0000AF;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+}
+
+#conocenos {
+    background-color: #FFDAB9;
+    padding: 50px 20px;
+    border-top: 4px solid orange;
+    border-bottom: 4px solid orange;
+}
+
+.contenido-conocenos {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#conocenos h2 {
+    margin-bottom: 20px;
+}
+
+#conocenos p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
