@@ -61,7 +61,8 @@ nav a {
     padding: 20px;
     margin-bottom: 20px;  
 }
-.menu {
+
+#menu {
     background-color: var(--background);
     color: var(--text-color);
     text-align: center;
@@ -168,7 +169,7 @@ font-weight: 400;
 /* ── FORMULARIO ── */
 #formulario form {
     max-width: 560px;
-    margin: 20px 0;
+    margin: 20px;
     background-color: var(--primary);
     padding: 30px;
     border-radius: 8px;
