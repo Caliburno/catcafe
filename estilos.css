@@ -14,16 +14,19 @@
     box-sizing: border-box;
 }
 
-header img {
-    width: 50%;
-    max-width: 500px;
-}
-
+/* DESPUÉS */
 header {
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: var(--primary);
     border-bottom: 4px solid var(--accent);
-    padding: 20px;
+    padding: 16px 32px;
+}
+
+header img {
+    height: 100px;
+    width: auto;
 }
 
 body {
@@ -37,8 +40,10 @@ h1, h2, h3 {
     font-family: 'Bitcount Grid Double', sans-serif;
 }
 
+/* DESPUÉS */
 nav {
-    margin-top: 10px;
+    display: flex;
+    gap: 24px;
 }
 
 nav a {
